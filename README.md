@@ -27,6 +27,8 @@
 2. Установить зависимости:
    ```bash
    pip install -r requirements.txt
-3. Run notebooks:
+3. Запустить:
+
 	notebooks/01_eda.ipynb
+
 	notebooks/02_modeling.ipynb
