@@ -1,7 +1,7 @@
 # Credit Card Default Prediction (Credit Scoring)
 
 Проект бинарной классификации: предсказать, допустит ли клиент дефолт по платежу по кредитной карте в следующем месяце
-
+https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
 ## Model Comparison
 
 Датасет умеренно несбалансирован (~22% defaults), поэтому accuracy не является основной метрикой.
